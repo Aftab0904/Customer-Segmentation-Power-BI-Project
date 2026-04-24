@@ -2,7 +2,7 @@
 
 *Overview*
 
-This repository contains the **CardMetrics** Power BI project, a data-driven dashboard developed for Mitron Bank. The project aims to identify the ideal customer segments for their credit card offerings by delivering actionable insights across four key areas: Demography, Income, Spending, and Utilization.
+This repository contains the **CardMetrics** Power BI project, a data-driven dashboard developed for CardMetrics. The project aims to identify the ideal customer segments for their credit card offerings by delivering actionable insights across four key areas: Demography, Income, Spending, and Utilization.
 
 ![Home](Demo/home.png)
 
@@ -50,9 +50,16 @@ Age Group
 ![Global Filters](Demo/global_filters.png)
 
 
+*Technologies Used*
+
+- **Power BI Desktop**: For data modeling, visualization, and dashboard creation.
+- **DAX (Data Analysis Expressions)**: Used for creating complex measures and calculated columns to drive insights.
+- **Power Query (M Language)**: For data cleaning, transformation, and ETL processes.
+- **Data Modeling**: Star schema implementation for optimized report performance.
+
 *Purpose*
 
-This report is designed to help Mitron Bank:
+This report is designed to help CardMetrics:
 
 Understand customer profiles to tailor credit card offerings.
 Identify spending and income patterns for targeted marketing.
